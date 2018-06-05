@@ -17,7 +17,7 @@ if ($conn->connect_error) {
 // links
 
 $home_url = "index.php";
-$insert_url = "insert.php";
+$insert_url = "app-3tier-test-app/opt/app-root/src/insert.php";
 
 
 
