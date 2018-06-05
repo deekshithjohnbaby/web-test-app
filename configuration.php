@@ -2,7 +2,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "amveryhappy";
 $db_name = "dk_db";
 
 // Create connection
