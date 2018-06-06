@@ -1,9 +1,9 @@
 
 <?php
-$servername = "apptest";
+$servername = "testdb";
 $username = "root";
 $password = "amveryhappy";
-$db_name = "dk_db";
+$db_name = "testdb";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,$db_name);
@@ -17,7 +17,7 @@ if ($conn->connect_error) {
 // links
 
 $home_url = "index.php";
-$insert_url = "app-3tier-test-app/opt/app-root/src/insert.php";
+$insert_url = "insert.php";
 
 
 
