@@ -16,8 +16,8 @@ if ($conn->connect_error) {
 
 // links
 
-$home_url = "index.php";
-$insert_url = "insert.php";
+$home_url = "http://web-3tier-test-app1-test-app-dk.pilot.honeyshift.com/index.php";
+$insert_url = "http://app-3tier-test-app-test-app-dk.pilot.honeyshift.com/insert.php";
 
 
 
